@@ -1,5 +1,6 @@
-# DataProjects
-## Links to ipython notebooks for the projects in this repo are given below:
+# Data Analysis Projects
+
+### Links to the ipython notebooks for the projects done are given below:
 
 ###Project Name                                           
 Titanic Data Analysis - Kaggle 
